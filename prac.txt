@@ -7,9 +7,3 @@ author: dev1
 This change to add some commits so i can reset or revert later.
 author: main
 
-practicing git revert
-authot: main
-
-Creating non-merge branch 
-author: main
-
